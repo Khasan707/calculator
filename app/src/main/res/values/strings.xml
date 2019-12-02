@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">calc-app</string>
+    <string name="btn_digit_0">0</string>
+    <string name="btn_digit_1">1</string>
+    <string name="btn_digit_2">2</string>
+    <string name="btn_digit_3">3</string>
+    <string name="btn_digit_4">4</string>
+    <string name="btn_digit_5">5</string>
+    <string name="btn_digit_6">6</string>
+    <string name="btn_digit_7">7</string>
+    <string name="btn_digit_8">8</string>
+    <string name="btn_digit_9">9</string>
+    <string name="btn_divide">÷</string>
+    <string name="btn_multiply">*</string>
+    <string name="btn_subtraction">-</string>
+    <string name="btn_addition">+</string>
+    <string name="btn_equally">=</string>
+    <string name="btn_backspace">←×</string>
+    <string name="btn_sin">sin</string>
+    <string name="btn_cos">cos</string>
+    <string name="btn_tan">tan</string>
+    <string name="btn_log10">log10</string>
+    <string name="btn_ln">ln</string>
+    <string name="btn_sqrt">√</string>
+    <string name="btn_sqr">X²</string>
+    <string name="btn_pi">PI</string>
+    <string name="btn_e">e</string>
+    <string name="btn_pow">^</string>
+    <string name="btn_open_bracket">(</string>
+    <string name="btn_close_bracket">)</string>
+    <string name="btn_dot">.</string>
+    <string name="btn_clear">C</string>
+</resources>
